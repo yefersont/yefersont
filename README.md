@@ -8,6 +8,6 @@
 
 
 # SKILLS
-![image](https://user-images.githubusercontent.com/60968668/176058385-b544e14a-b36e-4d04-8c5e-0e1de0fe4254.png =100x20)
+![image](https://user-images.githubusercontent.com/60968668/176058385-b544e14a-b36e-4d04-8c5e-0e1de0fe4254.png)=100x20
 
   
