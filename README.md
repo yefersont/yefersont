@@ -1,5 +1,5 @@
 # Proyectos
 
-## En esta lista se encuentran los links de proyectos que he realizado como desarrollador freelance
+###| Estos son los links de proyectos en los que he trabajado como ***desarrollador*** Freelance
 
-1. 
+. Decortinas y Persianas (***www.decortinasypersianas.com***)
