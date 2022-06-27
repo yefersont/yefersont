@@ -1,5 +1,5 @@
-# Mi experiencia ✨
+# Mi experiencia 🚀
 
-### Estos son los links de proyectos en los que he trabajado como ***desarrollador*** Freelance
+### Estos son links de proyectos ya finalizados en los que he trabajado y conseguido experiencia como ***desarrollador*** Freelance
 
 . Decortinas y Persianas (***www.decortinasypersianas.com***)
